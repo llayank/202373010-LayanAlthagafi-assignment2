@@ -58,9 +58,6 @@ The website also includes an empty-state message that informs the user when no p
 Through this assignment, I learned how to:
 
 - Add interactive buttons to a website.
-- Use `addEventListener()` to respond to user actions.
-- Use `querySelectorAll()` to select multiple elements.
-- Use `data-category` and `data-filter` attributes.
 - Show and hide content dynamically with JavaScript.
 - Use `classList` to update CSS classes.
 - Use localStorage to save user preferences.
