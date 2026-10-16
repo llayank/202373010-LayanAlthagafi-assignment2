@@ -44,7 +44,7 @@ All AI suggestions were reviewed, customized, and tested manually. More details 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/llayank/202373010-LayanAlthagafi-assignment2.git
 2. Open the project folder.
 3. Open the index.html file in a web browser.
 No additional libraries or installation steps are required.
