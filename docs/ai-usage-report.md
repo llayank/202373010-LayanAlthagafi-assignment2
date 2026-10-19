@@ -2,58 +2,39 @@
 
 ## 1. Tools Used & Use Cases
 
-* **Tools:** Gemini (Google) and ChatGPT
+- **Tool:** ChatGPT 
+- **Use Cases:**
+  - **Code Explanation:** Understanding HTML navigation structure, CSS media queries, and JavaScript logic.
+  - **CSS & Color Palettes:** Getting suggestions for modern color combinations and CSS styling to improve the portfolio design.
+  - **Debugging Assistance:** Identifying and fixing errors in JavaScript project filtering code.
+  - **Improved User Experience:** Getting suggestions for hover effects, smooth CSS transitions, and user-friendly form validation messages.
+  - **Documentation & Grammar Review:** Checking grammar and improving the clarity of the project description.
 
-* **Use Cases:**
 
-  * **Ideation and Layout Assistance:** Brainstorming the structure of a personal portfolio website and organizing semantic HTML sections.
 
-  * **CSS and Color Palettes:** Suggesting modern CSS variables, responsive layouts, transitions, hover effects, and color combinations for the portfolio design.
+## 2. Benefits
 
-  * **JavaScript Assistance:** Understanding and improving JavaScript features such as time-based greetings, light/dark theme switching, localStorage, contact form validation, and project filtering.
+* **Better Code Understanding:** ChatGPT helped me understand HTML, CSS, and JavaScript concepts.
 
-  * **Interactive Feature Planning:** Planning the project filtering feature using buttons, `data-*` attributes, event listeners, and dynamic content.
+* **CSS Improvements:** AI provided suggestions for color combinations and smooth transitions that I could compare with my own design.
 
-  * **Documentation Guidance:** Organizing the README file, technical documentation, and AI usage report according to the assignment requirements.
+* **Debugging Assistance:** AI helped identify mistakes in the JavaScript project filtering logic.
 
-## 2. Assignment 2 Improvements
+* **Improved User Experience:** AI suggested hover effects and user-friendly validation messages.
 
-For Assignment 2, AI was used to help plan and implement an interactive project filtering feature.
+* **Grammar Support:** AI helped review the grammar and clarity of my project description.
 
-The feature allows users to filter projects by technology category:
-
-- All projects
-- HTML/CSS
-- JavaScript
-- Full-Stack
-
-When a user clicks a filter button, JavaScript displays the matching projects and hides the other projects. The selected button is highlighted to make the current filter clear.
-
-The website also includes an empty-state message that informs the user when no projects match the selected category.
-
-## 3. Benefits
-
-* **Faster Workflow:** AI helped me understand how to organize the project folders and build the interactive feature more efficiently.
-
-* **Improved User Experience:** AI suggested using hover effects, transitions, fade-in animations, and clear feedback messages.
-
-* **Debugging Assistance:** AI helped identify and fix issues related to email validation, CSS transitions, and project filtering.
-
-* **Documentation Support:** AI helped me organize the README and technical documentation.
-
-## 4. Challenges
+## 3. Challenges
 
 * **Generic Suggestions:** Some initial suggestions were generic, so I customized the content and design to match my own portfolio.
 
 * **Understanding the Code:** I had to review the JavaScript code to understand how the buttons filter the projects.
 
-* **Validation Issues:** The email field initially accepted some incomplete formats, so I improved the validation using a regular expression pattern and a custom error message.
-
 * **Testing:** I manually tested the website to make sure the filter buttons, theme switcher, form validation, and animations worked correctly.
 
 * **Avoiding Unnecessary Features:** Some suggested features were more advanced than required, so I kept the project focused on the assignment requirements.
 
-## 5. Learning Outcomes
+## 4. Learning Outcomes
 
 Through this assignment, I learned how to:
 
@@ -66,7 +47,7 @@ Through this assignment, I learned how to:
 - Add CSS transitions and fade-in animations.
 - Organize HTML, CSS, JavaScript, and documentation files.
 
-## 6. Responsible Use and Modifications
+## 5. Responsible Use and Modifications
 
 AI was used as a learning and development assistant, not as a replacement for my own work.
 
@@ -81,6 +62,17 @@ The final changes included:
 - Adding CSS hover effects and fade-in animations.
 - Improving email validation.
 - Updating the project documentation.
+
+
+## 6. AI Usage Log
+
+| ID | Tool (model) | Date | Purpose | Files affected | What you changed and how you verified it |
+|---|---|---|---|---|---|
+| C01 | ChatGPT (GPT-6) | 2026-10-19 | Code explanation, debugging, CSS suggestions, and grammar review | `index.html`, `css/styles.css`, `js/script.js` | I reviewed the AI explanations and used them to better understand my HTML, CSS, and JavaScript code |
+| A01 | ChatGPT (GPT-6) | 2026-10-19 | CSS color palette suggestions | `css/styles.css` | I customized the suggested color palette to match my portfolio design, using purple tones instead of blue |
+| A02 | ChatGPT (GPT-6) | 2026-10-19 | JavaScript project filtering debugging | `js/script.js` | I corrected the JavaScript filtering logic and tested the project category buttons to check that the correct projects appeared |
+| A03 | ChatGPT (GPT-6) | 2026-10-19 | CSS transitions and hover effects | `css/styles.css` | I adjusted the CSS transitions and hover effects for buttons and project cards, then checked their appearance in the browser |
+| A04 | ChatGPT (GPT-6) | 2026-10-19 | Email validation message suggestions | `js/script.js` | reviewed the suggested validation messages|
 
 ## 7. Testing and Verification
 
@@ -98,3 +90,12 @@ I tested the website by:
 - Checking the website on different screen sizes.
 
 The final website was reviewed to ensure that the interactive features worked correctly and that the user received clear feedback.
+
+## 8. AI Usage Declaration
+
+Student Name: Layan Althagafi
+Student ID: [202373010]
+Date: 19/10/2026
+
+I declare that this report and the attached evidence document all of my AI use in this assignment, with complete and unedited conversations, and that I understand and can explain all the code I submitted. I understand that undeclared AI use or a false declaration will be treated as plagiarism according to KFUPM regulations.
+
